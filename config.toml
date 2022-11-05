@@ -21,7 +21,7 @@ copyright = "AtsushiSaito"
 readmore = true
 
 [permalinks]
-blog = "/:section/:year/:month/:day/:15:04"
+entry = "/:section/:year/:month/:day/:15:04:05"
 
 [Params.sidebar]
 home = "right" # Configure layout for home page
