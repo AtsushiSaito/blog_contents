@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "ASRobot"
+theme = "mainroad"
+
+[author]
+name = "AtsushiSaito"
+bio = "ものづくり大好きマン"
+job = "SoftwareEngineer"
+location = "Japan"
+
+[Params]
+subtitle = "ものづくり情報を発信します。"
+schema = true
+toc = true
+post_meta = ["date", "categories"]
+dateformat = "2006-01-02"
+copyright = "AtsushiSaito"
