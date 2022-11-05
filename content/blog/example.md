@@ -10,6 +10,7 @@ keywords:
 comments:       false
 showMeta:       false
 showActions:    false
+
 #thumbnailImage: //example.com/image.jpg
 ---
 Hugoでブログを作成したいと思ったので、色々お試し中

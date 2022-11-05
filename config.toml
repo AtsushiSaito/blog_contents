@@ -16,3 +16,6 @@ toc = true
 post_meta = ["date", "categories"]
 dateformat = "2006-01-02"
 copyright = "AtsushiSaito"
+
+[permalinks]
+blog = "/:section/:year/:month/:day/:15:04"
