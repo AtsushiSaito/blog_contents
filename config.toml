@@ -3,7 +3,7 @@ languageCode = "ja"
 title = "ASRobot"
 theme = "mainroad"
 hasCJKLanguage = true
-summaryLength = 200
+summaryLength = 100
 
 [author]
 name = "AtsushiSaito"
